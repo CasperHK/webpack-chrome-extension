@@ -1,4 +1,4 @@
-# Webpack Chrome extension
+# Webpack Chrome Extension
 
 Bootstrap project for developing any kind Chrome extensions with all javascript features like [NPM packages](https://www.npmjs.com/), [Webpack](http://webpack.github.io/), [Babel](https://babeljs.io/), [React](https://facebook.github.io/react/) and almost everything you want.
 
